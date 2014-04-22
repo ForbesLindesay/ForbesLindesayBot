@@ -2,9 +2,9 @@
 
 Does all the things I don't want to have to bother doing myself...
 
-[![Build Status](https://travis-ci.org/ForbesLindesay/ForbesLindesayBot.png?branch=master)](https://travis-ci.org/ForbesLindesay/ForbesLindesayBot)
-[![Dependency Status](https://gemnasium.com/ForbesLindesay/ForbesLindesayBot.png)](https://gemnasium.com/ForbesLindesay/ForbesLindesayBot)
-[![NPM version](https://badge.fury.io/js/ForbesLindesayBot.png)](http://badge.fury.io/js/ForbesLindesayBot)
+[![Build Status](https://img.shields.io/travis/ForbesLindesay/ForbesLindesayBot/master.svg)](https://travis-ci.org/ForbesLindesay/ForbesLindesayBot)
+[![Dependency Status](https://img.shields.io/gemnasium/ForbesLindesay/ForbesLindesayBot.svg)](https://gemnasium.com/ForbesLindesay/ForbesLindesayBot)
+[![NPM version](https://img.shields.io/npm/v/ForbesLindesayBot.svg)](http://badge.fury.io/js/ForbesLindesayBot)
 
 ## Installation
 
