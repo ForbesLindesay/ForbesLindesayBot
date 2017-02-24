@@ -4,12 +4,12 @@
   "description": "Does all the things I don't want to have to bother doing myself...",
   "keywords": [],
   "dependencies": {
-    "npm-registry-client": "~0.4.5",
-    "promise": "~4.0.0",
-    "semver": "~2.2.1",
-    "github-basic": "~2.1.0",
-    "ms": "~0.6.2",
-    "raven": "~0.6.2"
+    "npm-registry-client": "~7.4.5",
+    "promise": "~7.1.1",
+    "semver": "~5.3.0",
+    "github-basic": "~6.0.0",
+    "ms": "~0.7.2",
+    "raven": "~1.1.2"
   },
   "devDependencies": {
     "mocha": "*"
