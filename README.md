@@ -1,5 +1,7 @@
 # ForbesLindesayBot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ForbesLindesay/ForbesLindesayBot.svg)](https://greenkeeper.io/)
+
 Does all the things I don't want to have to bother doing myself...
 
 [![Build Status](https://img.shields.io/travis/ForbesLindesay/ForbesLindesayBot/master.svg)](https://travis-ci.org/ForbesLindesay/ForbesLindesayBot)
